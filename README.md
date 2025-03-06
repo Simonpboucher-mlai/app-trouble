@@ -33,7 +33,7 @@ A state-of-the-art AI diagnostic assistant with an elegant, Apple-inspired inter
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/futuristic-diagnosis-app.git
+git clone https://github.com/Simonpboucher-mlai/futuristic-diagnosis-app.git
 cd futuristic-diagnosis-app
 ```
 
